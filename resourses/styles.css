@@ -1,3 +1,30 @@
 *{
     font-family: 'Inconsolata', monospace;
 }
+
+body {
+    padding: 50px;
+    margin: 8px;
+    display:block;
+}
+
+#mainHeading {
+    font-size:32px;
+    text-align: center;
+    color:red;
+}
+
+img {
+    width: 30%;
+    height: 15%;
+}
+
+.picture-row{
+    display:flex;
+    justify-content: space-around;
+}
+
+#testP {
+    color:green;
+    font-size:20px;
+}
